@@ -5,9 +5,67 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="/favicon.png" />
     <title>LaraWay</title>
+    <style>
+        body {
+            line-height: 1.5;
+            background: #252525 linear-gradient(#2a2a29, #1c1c1c) fixed;
+            text-shadow: 1px 1px 1px rgba(0,0,0, .4);
+            font-family: 'Open Sans', Arial, sans-serif;
+            font-size: 16px;
+            font-weight: 300;
+            color: #f0e7d5;
+        }
+        .app-container {
+            margin: 60px 40px 30px 15%;
+            max-width: 884px;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+        }
+        .header > div {
+            margin-right: 20px;
+        }
+        .app-name {
+            font-size: 40px;
+        }
+        .app-name > span {
+            color: #ffcc00;
+        }
+        .app-description {
+            color: #d7cfbe;
+        }
+        .app-logo {
+            opacity: .8;
+        }
+        .message {
+            margin-top: 40px;
+            font-size: 22px;
+            font-style: italic;
+        }
+    </style>
 </head>
 <body>
-UnderConstruction
+<main class="app-container">
+    <header class="header">
+        <div>
+            <div class="app-name">
+                Lara<span>Way</span>
+            </div>
+            <div class="app-description">
+                How to do it in Laravel?
+            </div>
+        </div>
+        <div>
+            <img src="/logo.png" class="app-logo" alt="">
+        </div>
+    </header>
+    <div class="message">Coming soon...</div>
+</main>
 </body>
 </html>
