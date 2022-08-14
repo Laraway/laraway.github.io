@@ -5,135 +5,135 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://laraway.github.io/</loc>
+  <loc>https://laraway.github.io</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/conventions/</loc>
+  <loc>https://laraway.github.io/conventions</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/bad-practices/</loc>
+  <loc>https://laraway.github.io/bad-practices</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/links/</loc>
+  <loc>https://laraway.github.io/links</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/intro/</loc>
+  <loc>https://laraway.github.io/intro</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/how-to-ask/</loc>
+  <loc>https://laraway.github.io/how-to-ask</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/error-500/</loc>
+  <loc>https://laraway.github.io/error-500</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/here-is-logs/</loc>
+  <loc>https://laraway.github.io/here-is-logs</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/permission-denied/</loc>
+  <loc>https://laraway.github.io/permission-denied</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/method-is-not-supported/</loc>
+  <loc>https://laraway.github.io/method-is-not-supported</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/controller-does-not-exist/</loc>
+  <loc>https://laraway.github.io/controller-does-not-exist</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/fillable/</loc>
+  <loc>https://laraway.github.io/fillable</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/pretty-url-404/</loc>
+  <loc>https://laraway.github.io/pretty-url-404</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/shared-hosting/</loc>
+  <loc>https://laraway.github.io/shared-hosting</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/how-store-image/</loc>
+  <loc>https://laraway.github.io/how-store-image</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/storage/</loc>
+  <loc>https://laraway.github.io/storage</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/unescaped-data/</loc>
+  <loc>https://laraway.github.io/unescaped-data</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/foreign-keys/</loc>
+  <loc>https://laraway.github.io/foreign-keys</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/cors/</loc>
+  <loc>https://laraway.github.io/cors</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/api-headers/</loc>
+  <loc>https://laraway.github.io/api-headers</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/artisan-not-working/</loc>
+  <loc>https://laraway.github.io/artisan-not-working</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/database-driver/</loc>
+  <loc>https://laraway.github.io/database-driver</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/docker-database/</loc>
+  <loc>https://laraway.github.io/docker-database</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/model-creation/</loc>
+  <loc>https://laraway.github.io/model-creation</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/method-magic-syntax/</loc>
+  <loc>https://laraway.github.io/method-magic-syntax</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/datetime/</loc>
+  <loc>https://laraway.github.io/datetime</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/ssh-key/</loc>
+  <loc>https://laraway.github.io/ssh-key</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/backend-frontend/</loc>
+  <loc>https://laraway.github.io/backend-frontend</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/eloquent-vs-db/</loc>
+  <loc>https://laraway.github.io/eloquent-vs-db</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/repository/</loc>
+  <loc>https://laraway.github.io/repository</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/logic-in-controllers/</loc>
+  <loc>https://laraway.github.io/logic-in-controllers</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/laravel-and-vue/</loc>
+  <loc>https://laraway.github.io/laravel-and-vue</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 <url>
-  <loc>https://laraway.github.io/vite-vs-mix/</loc>
+  <loc>https://laraway.github.io/vite-vs-mix</loc>
   <lastmod>2022-08-14T20:32:53+00:00</lastmod>
 </url>
 </urlset>
